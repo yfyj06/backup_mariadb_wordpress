@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: "00000000000000000000000000000000"
-    PropagateID: "00000000000000000000000000000000"
-    ReservedCode1: 3045022100c8d7b1c4c177dc466c2ee5de253267a9fbeca0c5fa4e7463755748f50cd8b0ac02201b588d7003c0e5abe79eb9d775d1ce084b15e0b3240b731436cf95eb4449d31d
-    ReservedCode2: 3046022100c506fa51c283920125d41939608f0746a45d819963ad85334e5fd3bb5f68641f022100a07c0b7d4a465eb1f2c3f47d4d6faa105e82e4019af3e8e7bab8c63875abdea3
----
-
 # WordPress + MariaDB 备份管理系统
 
 一个轻量级、模块化的 WordPress 网站与 MariaDB 数据库自动化备份解决方案。
